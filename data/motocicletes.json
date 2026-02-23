@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "marca": "Honda",
+    "model": "CBR600RR",
+    "any": 2020
+  },
+  {
+    "id": 2,
+    "marca": "Ducati",
+    "model": "Rapida",
+    "any": 1500
+  }
+]
